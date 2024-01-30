@@ -1,0 +1,7 @@
+{
+  "name": "Breakfast-Planner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
